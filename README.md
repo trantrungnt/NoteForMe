@@ -8,3 +8,4 @@
 + [Sandbox in Android](http://www.androidauthority.com/secure-android-90523/) and [Sandbox](http://researchcenter.paloaltonetworks.com/2014/08/insecure-internal-storage-android/)
 + [Sandbox - Security Tips](https://developer.android.com/training/articles/security-tips.html)
 + [Difference between onCreate and onStart](http://stackoverflow.com/questions/6812003/difference-between-oncreate-and-onstart)
++ [Eclipse Code Formatter Plugin for Android Studio](http://stackoverflow.com/questions/16710367/android-code-style-in-intellij-idea-android-studio)
