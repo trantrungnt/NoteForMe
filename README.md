@@ -4,3 +4,4 @@
 + Máy ảo ART đã thay Máy ảo Dalvik
 + Apk là viết tắt của Android Application Package
 + Máy ảo ART và Máy ảo Dalvik đều chạy file thực thi .dex
++ Khi gõ nhầm tên Package, muốn thay đổi thì: refactor trong Android studio (tạo pakage với tên mới), sau đó tìm thư mục tạo package và lấy các file .java trong package cũ và cho vào package có tên mới. sau đó, đổi tên package trong các file java sử dụng tên package mới. Ngoài ra, trong file Manifest ta cũng điền tên Pakcage mới. Cuối cùng, ta Build lại project là được
