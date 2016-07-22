@@ -10,3 +10,4 @@
 + [Difference between onCreate and onStart](http://stackoverflow.com/questions/6812003/difference-between-oncreate-and-onstart)
 + [Eclipse Code Formatter Plugin for Android Studio](http://stackoverflow.com/questions/16710367/android-code-style-in-intellij-idea-android-studio)
 + [Android Broad Cast Receiver for screen on and Screen Off](http://stackoverflow.com/questions/9477922/android-broadcast-receiver-for-screen-on-and-screen-off) or [Handing Screeen On](https://thinkandroid.wordpress.com/2010/01/24/handling-screen-off-and-screen-on-intents/)
++ [Start Application knowing package name](http://stackoverflow.com/questions/3422758/start-application-knowing-package-name)
