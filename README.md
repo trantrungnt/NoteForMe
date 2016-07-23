@@ -22,4 +22,5 @@ Cách sửa:
 ```
 + [Android BroadcastReceiver - Tutorial](http://www.vogella.com/tutorials/AndroidBroadcastReceiver/article.html#pending-intent)
 + [Understanding Android Broadcast Receivers](http://codetheory.in/android-broadcast-receivers/) or [Broad cast Receiver](http://www.tutorialspoint.com/android/android_broadcast_receivers.htm)
++ [Launch application after phone boot or screen unlock in Android using BroadcastReceiver](http://findnerd.com/list/view/Launch-application-after-phone-boot-or-screen-unlock-in-Android-using-BroadcastReceiver/98/)
 
