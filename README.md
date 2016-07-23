@@ -12,3 +12,4 @@
 + [Android Broad Cast Receiver for screen on and Screen Off](http://stackoverflow.com/questions/9477922/android-broadcast-receiver-for-screen-on-and-screen-off) or [Handing Screeen On](https://thinkandroid.wordpress.com/2010/01/24/handling-screen-off-and-screen-on-intents/)
 + [Start Application knowing package name](http://stackoverflow.com/questions/3422758/start-application-knowing-package-name)
 + [Differences between Intent and Pending Intent](http://stackoverflow.com/questions/24257247/differences-between-intent-and-pendingintent)
++ [How to laucn Pending Intent](http://iserveandroid.blogspot.com/2011/03/how-to-launch-pending-intent.html)
