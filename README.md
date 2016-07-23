@@ -15,4 +15,5 @@
 + [How to launch Pending Intent](http://iserveandroid.blogspot.com/2011/03/how-to-launch-pending-intent.html)
 + [Phân biệt foregroudn life time avaf visible life time] (https://duythanhcse.wordpress.com/2013/03/27/bai-tap-6-phan-biet-foreground-lifetime-va-visible-lifetime/)
 + [ví dụ về Pending Intent](http://www.programcreek.com/java-api-examples/android.app.PendingIntent)
++ [Gợi ý chỉnh lại chế độ gới ý tự dộng  tính và code trong Android Studio khi bị lỗi](http://stackoverflow.com/questions/18370599/android-studio-auto-complete-and-other-features-not-working)
 
