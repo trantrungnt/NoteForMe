@@ -20,4 +20,5 @@ Cách sửa:
 ```
   Go File > Invalidate Caches / Restart... > Click at Invalidate and Restart
 ```
++ [Android BroadcastReceiver - Tutorial](http://www.vogella.com/tutorials/AndroidBroadcastReceiver/article.html#pending-intent)
 
