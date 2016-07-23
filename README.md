@@ -13,3 +13,5 @@
 + [Start Application knowing package name](http://stackoverflow.com/questions/3422758/start-application-knowing-package-name)
 + [Differences between Intent and Pending Intent](http://stackoverflow.com/questions/24257247/differences-between-intent-and-pendingintent)
 + [How to launch Pending Intent](http://iserveandroid.blogspot.com/2011/03/how-to-launch-pending-intent.html)
++ [Phân biệt foregroudn life time avaf visible life time] (https://duythanhcse.wordpress.com/2013/03/27/bai-tap-6-phan-biet-foreground-lifetime-va-visible-lifetime/)
+
