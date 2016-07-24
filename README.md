@@ -23,4 +23,5 @@ Cách sửa:
 + [Android BroadcastReceiver - Tutorial](http://www.vogella.com/tutorials/AndroidBroadcastReceiver/article.html#pending-intent)
 + [Understanding Android Broadcast Receivers](http://codetheory.in/android-broadcast-receivers/) or [Broad cast Receiver](http://www.tutorialspoint.com/android/android_broadcast_receivers.htm)
 + [Launch application after phone boot or screen unlock in Android using BroadcastReceiver](http://findnerd.com/list/view/Launch-application-after-phone-boot-or-screen-unlock-in-Android-using-BroadcastReceiver/98/) or [autor start custom Android Application](http://www.digi.com/resources/documentation/digidocs/90001945-13/task/android/t_faq_autostart_custom_android_applications.htm) or [Android broad cast receiver for screen on and screen off](http://stackoverflow.com/questions/9477922/android-broadcast-receiver-for-screen-on-and-screen-off) or [Expland: Android Broad Cast Receiver for Scrren on and Screen Off](https://codedump.io/share/svQs8bwGaeGj/1/android-broadcast-receiver-for-screen-on-and-screen-off)
++ [Fragment in Android - VietJack](http://vietjack.com/android/fragment_trong_android.jsp)
 
