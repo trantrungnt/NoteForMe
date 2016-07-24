@@ -25,4 +25,5 @@ Cách sửa:
 + [Launch application after phone boot or screen unlock in Android using BroadcastReceiver](http://findnerd.com/list/view/Launch-application-after-phone-boot-or-screen-unlock-in-Android-using-BroadcastReceiver/98/) or [autor start custom Android Application](http://www.digi.com/resources/documentation/digidocs/90001945-13/task/android/t_faq_autostart_custom_android_applications.htm) or [Android broad cast receiver for screen on and screen off](http://stackoverflow.com/questions/9477922/android-broadcast-receiver-for-screen-on-and-screen-off) or [Expland: Android Broad Cast Receiver for Scrren on and Screen Off](https://codedump.io/share/svQs8bwGaeGj/1/android-broadcast-receiver-for-screen-on-and-screen-off)
 + [Fragment in Android - VietJack](http://vietjack.com/android/fragment_trong_android.jsp)
 + [Broad Cast Receiver - VietJack](http://vietjack.com/android/broadcast_receiver_trong_android.jsp)
++ [Service - VietJack](http://vietjack.com/android/service_trong_android.jsp)
 
