@@ -26,4 +26,5 @@ Cách sửa:
 + [Fragment in Android - VietJack](http://vietjack.com/android/fragment_trong_android.jsp)
 + [Broad Cast Receiver - VietJack](http://vietjack.com/android/broadcast_receiver_trong_android.jsp)
 + [Service - VietJack](http://vietjack.com/android/service_trong_android.jsp)
-
++ Chú ý: khi đăng ký ở đâu thì hủy tương ứng với nó
+(onResume - onPause; onStart - onStop; onCreate - onDestroy)
