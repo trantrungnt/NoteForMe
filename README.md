@@ -34,3 +34,4 @@ Cách sửa:
 + onNewIntent ==> để kiểm tra xem: khi tạo 1 Activity mới (A mở B, B mở C, sau đó C mở lại A) thì: Single Top để duy nhất Activity cũ là A được giữ lại, đồng thời xóa các Activity ở Top của Stack
 + [Inflate](http://stackoverflow.com/questions/4448779/how-to-inflate-xml-layout-file-correctly-inside-custom-viewgroup) có thể ép XML thành đối tượng và sử dụng bình thường
 + Mặc định: khi load View trong setContentView thì: Activity đã có sẵn 1 View, khi setContentView thì nó add vào View đó
++ Pending Intent dùng cho trường hợp: đến thời điểm nào đó cần start activity, notifiication ... thì ta mới dùng Pedding Intent
