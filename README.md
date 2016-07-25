@@ -31,3 +31,4 @@ Cách sửa:
 + 1 Component Name bao gồm: PakageName + ClassName
 + Explicit Intent (tường minh) thì: biết rõ Component
 + 1 Intent có thể actived: Activity, BroadCast Recevier, Servce
++ onNewIntent ==> để kiểm tra xem: khi tạo 1 Activity mới (A mở B, B mở C, sau đó C mở lại A) thì: Single Top để duy nhất Activity cũ là A được giữ lại, đồng thời xóa các Activity ở Top của Stack
