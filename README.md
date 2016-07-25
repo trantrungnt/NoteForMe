@@ -28,3 +28,6 @@ Cách sửa:
 + [Service - VietJack](http://vietjack.com/android/service_trong_android.jsp)
 + Chú ý: khi đăng ký ở đâu thì hủy tương ứng với nó
 (onResume - onPause; onStart - onStop; onCreate - onDestroy)
++ 1 Component Name bao gồm: PakageName + ClassName
++ Explicit Intent (tường minh) thì: biết rõ Component
++ 1 Intent có thể actived: Activity, BroadCast Recevier, Servce
