@@ -36,3 +36,4 @@ Cách sửa:
 + Mặc định: khi load View trong setContentView thì: Activity đã có sẵn 1 View, khi setContentView thì nó add vào View đó
 + Pending Intent dùng cho trường hợp: đến thời điểm nào đó cần start activity, notifiication ... thì ta mới dùng Pending Intent
 + Không nên dùng Log.d và Log.v khi hiển thị lỗi trong App (để khách hàng nhìn thấy)
++ state-lít có nhiều trạng thái: pressed, select, focus, hover, enable, actived, checkable (=true cho kiểu chọn List các món ăn), che
