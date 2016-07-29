@@ -40,3 +40,4 @@ Cách sửa:
 + [Android Navigation Drawer Example](https://www.codeofaninja.com/2014/02/android-navigation-drawer-example.html)
 + [Android Navigation drawer ](https://www.codeofaninja.com/2014/02/android-navigation-drawer-example.html)
 + [144 Android Navigation Drawer Tutorial Part 1 | coursetro.com](https://www.youtube.com/watch?v=K8hSIP2ha-g)
++ [Config: Android Studio Gradle Could not reserve enough space for object heap](http://stackoverflow.com/questions/30045417/android-studio-gradle-could-not-reserve-enough-space-for-object-heap)
