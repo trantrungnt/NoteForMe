@@ -38,3 +38,4 @@ Cách sửa:
 + Không nên dùng Log.d và Log.v khi hiển thị lỗi trong App (để khách hàng nhìn thấy)
 + state-lít có nhiều trạng thái: pressed, select, focus, hover, enable, actived, checkable (=true cho kiểu chọn List các món ăn), che
 + [Android Navigation Drawer Example](https://www.codeofaninja.com/2014/02/android-navigation-drawer-example.html)
++ [Android Navigation drawer ](https://www.codeofaninja.com/2014/02/android-navigation-drawer-example.html)
