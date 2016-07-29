@@ -39,3 +39,4 @@ Cách sửa:
 + state-lít có nhiều trạng thái: pressed, select, focus, hover, enable, actived, checkable (=true cho kiểu chọn List các món ăn), che
 + [Android Navigation Drawer Example](https://www.codeofaninja.com/2014/02/android-navigation-drawer-example.html)
 + [Android Navigation drawer ](https://www.codeofaninja.com/2014/02/android-navigation-drawer-example.html)
++ [144 Android Navigation Drawer Tutorial Part 1 | coursetro.com](https://www.youtube.com/watch?v=K8hSIP2ha-g)
