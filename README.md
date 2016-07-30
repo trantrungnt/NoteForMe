@@ -38,7 +38,7 @@ Cách sửa:
 + Không nên dùng Log.d và Log.v khi hiển thị lỗi trong App (để khách hàng nhìn thấy)
 + state-lít có nhiều trạng thái: pressed, select, focus, hover, enable, actived, checkable (=true cho kiểu chọn List các món ăn), che
 + [Android Navigation Drawer Example](https://www.codeofaninja.com/2014/02/android-navigation-drawer-example.html)
-+ [Android Navigation drawer ](https://www.codeofaninja.com/2014/02/android-navigation-drawer-example.html)
++ [Android Navigation drawer ](http://www.journaldev.com/9958/android-navigation-drawer-example-tutorial)
 + [144 Android Navigation Drawer Tutorial Part 1 | coursetro.com](https://www.youtube.com/watch?v=K8hSIP2ha-g)
 + [Config: Android Studio Gradle Could not reserve enough space for object heap](http://stackoverflow.com/questions/30045417/android-studio-gradle-could-not-reserve-enough-space-for-object-heap)
 + [Install Plugin Genymotion in Android Stuido](http://stackoverflow.com/questions/36142055/genymotion-device-doesnt-appear-on-device-chooser-android-studio) or [here](http://stackoverflow.com/questions/27261474/android-studio-doesnt-see-genymotion)
