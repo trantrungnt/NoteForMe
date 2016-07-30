@@ -45,4 +45,5 @@ Cách sửa:
 + Path Default for Android Studio install temp
 ```
  C:\Users\TEMP\AppData\Local\Android\Sdk
+ C:\Users\TrungNT\AppData\Local\Temp //delete cache in my computer
 ```
