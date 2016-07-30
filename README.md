@@ -54,3 +54,4 @@ Cách sửa:
  click 'Browse repositories' button, enter 'Eclipse Code Formatter' in the search field and install the plugin.
  Restart Android Studio.
 ```
++ [Life Cycle Fragment](http://www.journaldev.com/9266/android-fragment-example-tutorial-lifecycle)
