@@ -47,3 +47,10 @@ Cách sửa:
  C:\Users\TEMP\AppData\Local\Android\Sdk
  C:\Users\TrungNT\AppData\Local\Temp //delete cache in my computer
 ```
+
++ Coding Convention in Android Studio (use foramt Eclip)
+```
+ File -> Settings -> Plugins.
+ click 'Browse repositories' button, enter 'Eclipse Code Formatter' in the search field and install the plugin.
+ Restart Android Studio.
+```
