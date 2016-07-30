@@ -55,3 +55,4 @@ Cách sửa:
  Restart Android Studio.
 ```
 + [Life Cycle Fragment](http://www.journaldev.com/9266/android-fragment-example-tutorial-lifecycle)
++ [Use an illeaglArgumentException](http://stackoverflow.com/questions/10344187/is-this-the-correct-way-to-use-an-illegalargumentexception)
