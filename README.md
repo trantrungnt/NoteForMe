@@ -62,3 +62,4 @@ Cách sửa:
 + [Example of an app with PHone and Tablets](https://www.b4x.com/android/forum/threads/example-of-an-app-with-a-phone-and-tablet-layouts.22999/)
 + [Create layout folder for tablet](http://android-er.blogspot.com/2013/04/create-layout-folder-for-tablet.html)
 + [Create layout change Phone - Tablet Android](http://www.coderzheaven.com/2013/02/17/create-layouts-change-phone-tablet-android-fragments/)
++ [Handle different layout for Phone and Tablet](http://android-er.blogspot.com/2013/04/handle-different-layout-for-phone-and.html)
