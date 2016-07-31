@@ -59,3 +59,4 @@ Cách sửa:
 + [View Holder for ListView](https://www.codeofaninja.com/2013/09/android-viewholder-pattern-example.html)
 + [Code app for Tablets and Handsets](https://developer.android.com/guide/practices/tablets-and-handsets.html)
 + [Android app for Phone and Tablets](http://stackoverflow.com/questions/7468049/android-app-for-phone-and-tablet-1-or-2-apps)
++ [Example of an app with PHone and Tablets](https://www.b4x.com/android/forum/threads/example-of-an-app-with-a-phone-and-tablet-layouts.22999/)
