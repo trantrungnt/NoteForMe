@@ -63,3 +63,4 @@ Cách sửa:
 + [Create layout folder for tablet](http://android-er.blogspot.com/2013/04/create-layout-folder-for-tablet.html)
 + [Create layout change Phone - Tablet Android](http://www.coderzheaven.com/2013/02/17/create-layouts-change-phone-tablet-android-fragments/)
 + [Handle different layout for Phone and Tablet](http://android-er.blogspot.com/2013/04/handle-different-layout-for-phone-and.html)
++ [Fragment](https://developer.android.com/training/basics/fragments/index.html)
