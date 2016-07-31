@@ -60,3 +60,4 @@ Cách sửa:
 + [Code app for Tablets and Handsets](https://developer.android.com/guide/practices/tablets-and-handsets.html)
 + [Android app for Phone and Tablets](http://stackoverflow.com/questions/7468049/android-app-for-phone-and-tablet-1-or-2-apps)
 + [Example of an app with PHone and Tablets](https://www.b4x.com/android/forum/threads/example-of-an-app-with-a-phone-and-tablet-layouts.22999/)
++ [Create layout folder for tablet](http://android-er.blogspot.com/2013/04/create-layout-folder-for-tablet.html)
