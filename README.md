@@ -65,3 +65,4 @@ Cách sửa:
 + [Handle different layout for Phone and Tablet](http://android-er.blogspot.com/2013/04/handle-different-layout-for-phone-and.html)
 + [Fragment](https://developer.android.com/training/basics/fragments/index.html)
 + [Creating and Using Fragments](https://guides.codepath.com/android/Creating-and-Using-Fragments)
++ [Full exammple of using fragment](http://www.easyinfogeek.com/2013/07/full-example-of-using-fragment-in.html)
