@@ -68,3 +68,4 @@ Cách sửa:
 + [Full exammple of using fragment](http://www.easyinfogeek.com/2013/07/full-example-of-using-fragment-in.html)
 + [comunuicate fragments](https://developer.android.com/training/basics/fragments/communicating.html)
 + [Activity passing data to fragment throught call backs](http://stackoverflow.com/questions/20040024/activity-passing-data-to-fragment-through-callbacks)
++ [Intorduction to Android - Fragments Tutorial](https://www.raywenderlich.com/117838/introduction-to-android-fragments-tutorial)
