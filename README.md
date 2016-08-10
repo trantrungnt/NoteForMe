@@ -74,3 +74,4 @@ Cách sửa:
 + [Add files to android media library using the media scanner](http://www.grokkingandroid.com/adding-files-to-androids-media-library-using-the-mediascanner/)
 + [Scan media files in Android](http://droidyue.com/blog/2014/01/19/scan-media-files-in-android/)
 + [Android how to check if media scanner](http://sudarnimalan.blogspot.com/2012/05/android-how-to-check-if-media-scanner.html)
++ [Android saving files on internal and external storage](http://codetheory.in/android-saving-files-on-internal-and-external-storage/)
