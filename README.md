@@ -72,3 +72,4 @@ Cách sửa:
 + [How to comunicate between fragments and activities](http://simpledeveloper.com/how-to-communicate-between-fragments-and-activities/)
 + [data sharing between fragments and activity in Android](http://stackoverflow.com/questions/13445594/data-sharing-between-fragments-and-activity-in-android)
 + [Add files to android media library using the media scanner](http://www.grokkingandroid.com/adding-files-to-androids-media-library-using-the-mediascanner/)
++ [Scan media files in Android](http://droidyue.com/blog/2014/01/19/scan-media-files-in-android/)
