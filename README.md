@@ -76,3 +76,4 @@ Cách sửa:
 + [Android how to check if media scanner](http://sudarnimalan.blogspot.com/2012/05/android-how-to-check-if-media-scanner.html)
 + [Android saving files on internal and external storage](http://codetheory.in/android-saving-files-on-internal-and-external-storage/)
 + [How to Make a Simple Media Player for Android](http://hubpages.com/technology/How-to-Make-a-Simple-Media-Player-for-Android)
++ [Audio Service](https://gettysburg.wccnet.edu/aa/web/chasselb/cps251W12/Web/Contents/Class_Content/AudioService.htm)
