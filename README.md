@@ -78,3 +78,4 @@ Cách sửa:
 + [How to Make a Simple Media Player for Android](http://hubpages.com/technology/How-to-Make-a-Simple-Media-Player-for-Android)
 + [Audio Service](https://gettysburg.wccnet.edu/aa/web/chasselb/cps251W12/Web/Contents/Class_Content/AudioService.htm)
 + [Android saving a sound file to sd from resource and setting as ringstone](http://www.stealthcopter.com/blog/2010/01/android-saving-a-sound-file-to-sd-from-resource-and-setting-as-ringtone/)
++ [Meida Scanner - example](http://alvinalexander.com/java/jwarehouse/android/media/java/android/media/MediaScanner.java.shtml)
