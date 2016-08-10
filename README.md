@@ -80,3 +80,4 @@ Cách sửa:
 + [Android saving a sound file to sd from resource and setting as ringstone](http://www.stealthcopter.com/blog/2010/01/android-saving-a-sound-file-to-sd-from-resource-and-setting-as-ringtone/)
 + [Meida Scanner - example](http://alvinalexander.com/java/jwarehouse/android/media/java/android/media/MediaScanner.java.shtml)
 + [Refactoring](https://refactoring.guru/refactorings/refactorings)
++ [xposed.mediascanneroptimizer](http://repo.xposed.info/module/com.thomashofmann.xposed.mediascanneroptimizer)
