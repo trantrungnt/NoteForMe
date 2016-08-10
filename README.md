@@ -75,3 +75,4 @@ Cách sửa:
 + [Scan media files in Android](http://droidyue.com/blog/2014/01/19/scan-media-files-in-android/)
 + [Android how to check if media scanner](http://sudarnimalan.blogspot.com/2012/05/android-how-to-check-if-media-scanner.html)
 + [Android saving files on internal and external storage](http://codetheory.in/android-saving-files-on-internal-and-external-storage/)
++ [How to Make a Simple Media Player for Android](http://hubpages.com/technology/How-to-Make-a-Simple-Media-Player-for-Android)
