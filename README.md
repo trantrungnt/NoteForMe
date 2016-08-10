@@ -73,3 +73,4 @@ Cách sửa:
 + [data sharing between fragments and activity in Android](http://stackoverflow.com/questions/13445594/data-sharing-between-fragments-and-activity-in-android)
 + [Add files to android media library using the media scanner](http://www.grokkingandroid.com/adding-files-to-androids-media-library-using-the-mediascanner/)
 + [Scan media files in Android](http://droidyue.com/blog/2014/01/19/scan-media-files-in-android/)
++ [Android how to check if media scanner](http://sudarnimalan.blogspot.com/2012/05/android-how-to-check-if-media-scanner.html)
