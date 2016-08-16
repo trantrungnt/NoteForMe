@@ -81,3 +81,4 @@ Cách sửa:
 + [Meida Scanner - example](http://alvinalexander.com/java/jwarehouse/android/media/java/android/media/MediaScanner.java.shtml)
 + [Refactoring](https://refactoring.guru/refactorings/refactorings)
 + [xposed.mediascanneroptimizer](http://repo.xposed.info/module/com.thomashofmann.xposed.mediascanneroptimizer)
++ [Android Parcelable Example](http://prasanta-paul.blogspot.com/2010/06/android-parcelable-example.html)
