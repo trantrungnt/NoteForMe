@@ -82,3 +82,4 @@ Cách sửa:
 + [Refactoring](https://refactoring.guru/refactorings/refactorings)
 + [xposed.mediascanneroptimizer](http://repo.xposed.info/module/com.thomashofmann.xposed.mediascanneroptimizer)
 + [Android Parcelable Example](http://prasanta-paul.blogspot.com/2010/06/android-parcelable-example.html)
++ [Content Provider tutorial in Android with Example](http://www.compiletimeerror.com/2013/12/content-provider-in-android.html#.V7RSQJCg-Va)
