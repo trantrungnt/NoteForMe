@@ -86,3 +86,4 @@ Cách sửa:
 + [Use Content Provider to manage App data](https://www.sitepoint.com/using-androids-content-providers-manage-app-data/)
 + [Content Provider](http://www.compiletimeerror.com/2013/12/content-provider-in-android.html#.V7XFw5Cg-Va)
 + [Android Widget example](https://www.sitepoint.com/how-to-code-an-android-widget/)
++ [Learn Widget](https://developer.android.com/guide/topics/appwidgets/index.html)
