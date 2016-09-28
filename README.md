@@ -95,3 +95,4 @@ Cách sửa:
 + [Difference between add(), replace(), and addToBackStack()](http://stackoverflow.com/questions/18634207/difference-between-add-replace-and-addtobackstack)
 + [Hiểu cơ bản về Fragments](http://congdongjava.com/forum/threads/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-fragment.18030/)
 + [Huong dan su dung Service trong Android](http://o7planning.org/vi/10421/huong-dan-su-dung-service-trong-android)
++ [Nguyen nhan Leak Memory trong Android](https://tamninja.wordpress.com/2015/08/19/memory-leaknguyen-nhan-gay-leak-trong-android-phan-i/)
