@@ -92,3 +92,4 @@ Cách sửa:
 + [Thread trong Java](http://chuyengiait.com/threads/interview-java-cach-chuyen-phuong-thuc-thanh-thread-safe.24.html)
 + [So sánh String Builder và String Buffer trong java](http://vietjack.com/java/so_sanh_lop_stringbuffer_va_stringbuilder_trong_java.jsp)
 + [Sử dụng String, String Builder, String Buffer trong Java](http://o7planning.org/vi/10217/huong-dan-su-dung-java-string-stringbuffer-va-stringbuilder)
++ [Difference between add(), replace(), and addToBackStack()](http://stackoverflow.com/questions/18634207/difference-between-add-replace-and-addtobackstack)
