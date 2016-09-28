@@ -90,3 +90,4 @@ Cách sửa:
 + [Learn Widget Simple](http://www.androidauthority.com/create-simple-android-widget-608975/)
 + [ListView item scroll animation (“UIKit Dynamics” -like)](http://stackoverflow.com/questions/21588188/listview-item-scroll-animation-uikit-dynamics-like)
 + [Thread trong Java](http://chuyengiait.com/threads/interview-java-cach-chuyen-phuong-thuc-thanh-thread-safe.24.html)
++ [So sánh String Builder và String Buffer trong java](http://vietjack.com/java/so_sanh_lop_stringbuffer_va_stringbuilder_trong_java.jsp)
