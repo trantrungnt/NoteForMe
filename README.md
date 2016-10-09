@@ -97,3 +97,5 @@ Cách sửa:
 + [Huong dan su dung Service trong Android](http://o7planning.org/vi/10421/huong-dan-su-dung-service-trong-android)
 + [Nguyen nhan Leak Memory trong Android](https://tamninja.wordpress.com/2015/08/19/memory-leaknguyen-nhan-gay-leak-trong-android-phan-i/)
 + [StateMachine in Java - Android](https://android.googlesource.com/platform/frameworks/base/+/095c58b73ac112cc7e00771430765434893d8bc5/core/java/com/android/internal/util/StateMachine.java)
++ [State Machine](http://stackoverflow.com/questions/25581176/java-enum-based-state-machine-fsm-passing-in-events)
+
