@@ -98,6 +98,7 @@ Cách sửa:
 + [Nguyen nhan Leak Memory trong Android](https://tamninja.wordpress.com/2015/08/19/memory-leaknguyen-nhan-gay-leak-trong-android-phan-i/)
 + [StateMachine in Java - Android](https://android.googlesource.com/platform/frameworks/base/+/095c58b73ac112cc7e00771430765434893d8bc5/core/java/com/android/internal/util/StateMachine.java)
 + [State Machine](http://stackoverflow.com/questions/25581176/java-enum-based-state-machine-fsm-passing-in-events)
++ [State pattern](https://en.wikipedia.org/wiki/State_pattern)
 + [Finite State Machine in Java](http://dynamicfsm.blogspot.com/)
 + [Design Partern Stage in Java](https://dzone.com/articles/design-patterns-state)
 + [Spring State Machine](http://projects.spring.io/spring-statemachine/)
