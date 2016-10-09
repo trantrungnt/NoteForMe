@@ -100,3 +100,4 @@ Cách sửa:
 + [State Machine](http://stackoverflow.com/questions/25581176/java-enum-based-state-machine-fsm-passing-in-events)
 + [Finite State Machine in Java](http://dynamicfsm.blogspot.com/)
 + [Design Partern Stage in Java](https://dzone.com/articles/design-patterns-state)
++ [Spring State Machine](http://projects.spring.io/spring-statemachine/)
